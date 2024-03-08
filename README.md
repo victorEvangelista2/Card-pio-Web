@@ -16,3 +16,21 @@
 - Mínimo de 10 itens para venda
 
 - Páginas para acompanhamentos como bebidas e sobremesas
+Desenvolvimento - Processo de criação ️️
+
+# Desenvolvimento - Processo de criação 
+### Para criação do projeto Cardápio Web foi utilizado aplicativos como TrebEdit, sites e inteligências artificiais, no quesito das IAs foram mais utilizadas predominantemente nas imagens. Sendo assim foram criados arquivos .html e CSS sendo eles:
+
+- Arquivos Html
+- Index.html (Início)
+- Menu.html (Cardápio) 
+- Ads.html (Adicionais)
+- Sobs.html (Sobre a empresa) 
+- Pedidos.html 
+- Reservas.html
+
+## Arquivos CSS
+
+• Styles.CSS
+
+• Style2-Card.CSS
