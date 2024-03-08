@@ -1,5 +1,5 @@
 # Projeto Cardápio Web
-# Introdução - Processo antes da Criação 
+# Introdução - Processo antes da Criação 💡
 
 ### Foi escolhido um nicho de restaurante de preferência do criador, após esta etapa foi criado um cardápio web, ou seja, cardápio que pode ser acessado pela internet. Portanto o projeto terá as seguintes solicitações que serão atendidas futuramente:
 
@@ -18,7 +18,7 @@
 - Páginas para acompanhamentos como bebidas e sobremesas
 Desenvolvimento - Processo de criação ️️
 
-# Desenvolvimento - Processo de criação 
+# Desenvolvimento - Processo de criação ⚒️
 ### Para criação do projeto Cardápio Web foi utilizado aplicativos como TrebEdit, sites e inteligências artificiais, no quesito das IAs foram mais utilizadas predominantemente nas imagens. Sendo assim foram criados arquivos .html e CSS sendo eles:
 
 - Arquivos Html
@@ -32,5 +32,18 @@ Desenvolvimento - Processo de criação ️️
 ## Arquivos CSS
 
 • Styles.CSS
-
 • Style2-Card.CSS
+
+# Tenologias Utilizadas 👨🏽‍💻
+
+### [Mdn web docs](https://developer.mozilla.org/pt-BR/)
+
+### [Alura](https://www.alura.com.br/)
+
+### [MidJourney](https://www.midjourney.com/)
+
+### [Canva](https://www.canva.com/pt_br/)
+
+### [SeaArt](https://www.seaart.ai/home?https%3A%2F%2Fwww.seaart.ai%2Fhome%3Fad=BRGGC1SEARCH&gad_source=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdpQU3yRFwTifR8ibQlCbobHBv3sB0saji5hAY_Dbt4s5S3hz7-bdKxoCAaYQAvD_BwE)
+
+
