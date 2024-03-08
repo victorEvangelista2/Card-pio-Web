@@ -1,8 +1,7 @@
 # Projeto Cardápio Web
 # Introdução - Processo antes da Criação 
 
-### Foi escolhido um nicho de restaurante de preferência do criador, após esta etapa foi criado um cardápio web, ou seja, cardápio que pode ser acessado pela internet. Portanto o projeto terá as seguintes solicitações que serão
-atendidas futuramente:
+### Foi escolhido um nicho de restaurante de preferência do criador, após esta etapa foi criado um cardápio web, ou seja, cardápio que pode ser acessado pela internet. Portanto o projeto terá as seguintes solicitações que serão atendidas futuramente:
 
 - Controle de versão git/github
 
