@@ -46,4 +46,8 @@ Desenvolvimento - Processo de criação ️️
 
 ### [SeaArt](https://www.seaart.ai/home?https%3A%2F%2Fwww.seaart.ai%2Fhome%3Fad=BRGGC1SEARCH&gad_source=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdpQU3yRFwTifR8ibQlCbobHBv3sB0saji5hAY_Dbt4s5S3hz7-bdKxoCAaYQAvD_BwE)
 
+### [W3schools](https://www.w3schools.com/)
+
+### [Bootstrap](https://getbootstrap.com/)
+
 
