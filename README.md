@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto Cardápio Web 
 
 # Introdução - Processo antes da criação 💡
