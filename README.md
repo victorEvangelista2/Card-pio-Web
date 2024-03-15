@@ -28,7 +28,7 @@
 
  - Styles.CSS
  - Style2-Card.CSS
-=======
+ 
 # Projeto Cardápio Web
 # Introdução - Processo antes da Criação 💡
 
