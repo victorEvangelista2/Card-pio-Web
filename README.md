@@ -28,7 +28,7 @@
 
  - Styles.CSS
  - Style2-Card.CSS
- 
+
 # Projeto Cardápio Web
 # Introdução - Processo antes da Criação 💡
 
@@ -80,6 +80,3 @@ Desenvolvimento - Processo de criação ️️
 ### [W3schools](https://www.w3schools.com/)
 
 ### [Bootstrap](https://getbootstrap.com/)
-
-
->>>>>>> 350f36c37ee5683d25a3ff99d933175451f773f0
