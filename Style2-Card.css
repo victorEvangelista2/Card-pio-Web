@@ -1,0 +1,156 @@
+body {
+    font-family: Arial , sans-serif;
+    background-color: #E2D4C9;
+    margin: 0;
+    padding: 0;
+
+}
+   
+footer {
+    background-color: #2b2b2b;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 19px;
+    bottom: 0;
+    width: 100%;
+    height: 90px;
+    
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial , sans-serif;
+}
+
+nav#menu ul{
+    
+    list-style: none;
+    justify-content: space-around;
+    display: flex;
+
+}
+
+nav#menu a:link {
+    text-decoration:none;
+    text-transform: none;
+    font-weight: bold;
+    font-family: Arial , Helvetica , sans-serif;
+    font-size: 28px;
+    color: white; 
+}
+
+nav#menu a:visited {
+
+    color: white;
+    display: flex;
+    padding: 0px;
+}
+
+nav#menu a:hover {
+
+    color: #eb1111;
+    transition: all 0.4s ease;
+}
+
+header {
+    width: 185vh;
+    background-color: Black;
+    height: 10vh;
+    padding-top: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.social-links {
+  margin-bottom: 15px;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 0 10px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.social-links img {
+  width: 30px; 
+  height: 30px;
+}
+
+
+.card {
+  width: 300px;
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  
+  
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ddd;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-content h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.card-content p {
+  color: #555;
+}
+
+.card-content a {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 8px 16px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #007BFF;
+  border-radius: 5px;
+  font-weight: bold;
+} 
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid #3498db;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #0c0e0f;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.button:hover {
+  background-color: #ffffff;
+  color: #e0c7a5;
+}
+
+
+.button.primary {
+  border-color: #e0c7a5;
+  background-color: #050202;
+}
